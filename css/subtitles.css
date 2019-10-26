@@ -19,7 +19,7 @@ div#subtitle {
     background: transparent;
     font-family: "San Francisco",
         "Helvetica Neue", "Helvetica",
-        Contrail One, Sans-Serif;
+        Arial, Sans-Serif;
     font-size: calc( 3vh + 3vw );
     font-weight: 200;
     line-height: calc( 4vh + 3vw );
