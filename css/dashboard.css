@@ -344,8 +344,8 @@ div#header div#subtitle-styles {
     flex: 1;
     display: flex;
     color: #fefef2;
-    font-family: "Contrail One",
-        "Contrail One", "Contrail One",
+  font-family: "San Francisco",
+        "Helvetica Neue", "Helvetica",
         Contrail One, Sans-Serif;
     cursor: pointer;
     flex-direction: row;
